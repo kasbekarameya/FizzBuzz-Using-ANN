@@ -27,11 +27,11 @@ Now that we understand the concept of Artificial Neural Network & basics of Pyth
 The code used to implement Software 1.0 is written in Python. It uses the basic methodology of implementing a program wherein a software programmer hardcodes all the possible conditions that can occur during the execution of the program. 
 It is because of this property of the Software 1.0, until and unless the execution fails or the logic in implementing the program fails we will always obtain output and in turn 100% accuracy after executing the program.
 
-### Accuracy in Software 2.0
+## Accuracy in Software 2.0
 Unlike Software 1.0, Software 2.0 follows the principle of machine learning wherein we provide data to the model & predefine the output that has to be achieved by it. Then based on previous data the model itself has to increment towards achieving the required output. 
 In order to achieve the required output, each model has a predefined set of values known as Hyper Parameters. Hyper Parameters are variable in an Artificial Neural Network that decide the structure of the network & also determine how good the network works. Hence, in order to increase output accuracy of a Neural Network, we have to adjust the values of these parameters. Now let’s try to improve the accuracy by varying the Hyper Parameters. Here we are evaluating the performance of the Neural Network based on following four parameters;
-*Training Accuracy: This parameter is the accuracy of the model to determine the correct label of the data based on the training dataset.
-*Validation Accuracy: This parameter is the accuracy of the model to determine the correct label of the data based on the validation dataset.
+* Training Accuracy: This parameter is the accuracy of the model to determine the correct label of the data based on the training dataset.
+* Validation Accuracy: This parameter is the accuracy of the model to determine the correct label of the data based on the validation dataset.
 
 ### Number of Layers
 A layer in a Neural Network is a combination of neurons working together to provide a determined output. The accuracy of a model is dependent on how many number of hidden layers are present in a network [6].
@@ -84,17 +84,17 @@ Figure 8: Validation & Test Accuracy with optimal values for hyper parameters
 
 The major difference between Software 1.0 & Software 2.0 is that, 1.0 is the code written by a programmer, whereas 2.0 is an attempt to write a code by a model designed to solve a specific problem. Software 2.0 will be replacing Software 1.0, wherever automation is required and possible.
 Moreover, by performing this project, I was able to determine a number of advantages Software 2.0 brings to the IT Industry. Some of them are as follows:
-*Computationally homogenous design
-*Constant running time & memory use
-*Module can be combined to code
-*Is highly agile & portable
-*Can perform some operations even better than humans
+* Computationally homogenous design
+* Constant running time & memory use
+* Module can be combined to code
+* Is highly agile & portable
+* Can perform some operations even better than humans
 
 In order to complete this project, the process used is as follows:
-*Build a program representing Software 1.0 concept using Python
-*Build a neural network model representing the concept of Software 2.0 using Python
-*Calculate the accuracy of Software 1.0 program
-*Vary the Hyper Parameters to obtain maximum possible accuracy from Software 2.0 model
+* Build a program representing Software 1.0 concept using Python
+* Build a neural network model representing the concept of Software 2.0 using Python
+* Calculate the accuracy of Software 1.0 program
+* Vary the Hyper Parameters to obtain maximum possible accuracy from Software 2.0 model
 
 In conclusion, I can state that by performing this project we were able to determine the efficiency and possibilities of tasks that can be accomplished by Software 2.0. I was also able to learn the difference this new Software 2.0 model holds from the programmer’s point of view, compared to the traditional Software 1.0 program.
 
